@@ -1,0 +1,31 @@
+@startuml
+  node "Browser" {
+    [Web browser]
+  }
+
+  node "Front" {
+    [JSP]
+  }
+
+  node "Back" {
+    [Spring]
+  }
+
+  node "DataBase" {
+    [MsSQL]
+  }
+
+
+  [Web browser] --> [JSP]: request
+
+  [JSP] --> [Spring] : request
+
+  [Spring] --> [MsSQL] : request
+
+
+  [MsSQL] --> [Spring] : respone
+
+  [Spring] --> [JSP] : respone
+
+  [JSP] --> [Web browser] : respone
+@enduml
