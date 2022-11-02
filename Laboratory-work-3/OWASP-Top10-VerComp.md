@@ -1,0 +1,7 @@
+|Тип зміни|Ідентифікатор (A1-A5) та назва вразливості|Подробиці зміни|
+|---------------|----------------------|---------------|
+| зникла стара атака | A1. Unvalidated Input (Неперевіренне введення) | Видалено у 2007 |
+| розбито на 2 атаки: <br> 1.1) змінився номер у списку <br> 1.2) змінилася назва та номер <br> 2.1) немає змін <br> 2.2) немає змін | A2. Broken Access Control (Порушений контроль доступу) | В 2007 розбито на: </br>  1) A10. Failure to Restrict URL Access </br> 1.1) В 2010 змінився номер у списку на A8 – Failure to Restrict URL Access </br> 1.2) В 2013 змінилася назва та номер на A7 – Missing Function Level Access Control <br> 2) A4. Insecure Direct Object Reference <br> 2.1) В 2010 немає змін <br> 2.2) В 2013 немає змін |
+| змінився номер | A3. Broken Authentication and Session Management (Порушена автентифікація та керування сеансами) | 1) В 2007 змінився номер у списку на A7. Broken Authentication and Session Management <br> 2) В 2010 змінився номер у списку на A3 – Broken Authentication and Session Management <br> 3) В 2013 змінився номер у списку на A2 – Broken Authentication and Session Management |
+| змінився номер | A4. Cross Site Scripting (XSS) (Міжсайтовий сценарій (XSS)) | 1) В 2007 змінився номер у списку на A1. Cross Site Scripting (XSS) <br> 2) В 2010 змінився номер у списку на A2 – Cross-Site Scripting (XSS) <br> 3) В 2013 змінився номер у списку на A3 – Cross-Site Scripting (XSS) |
+| зникла стара атака | A5. Buffer Overflows (Переповнення буфера) | Видалено у 2007 |
