@@ -13,18 +13,17 @@
 
 5. Створіть віртуальну таблицю, назва якої співпадає з назвою реальної таблиці та
 яка забезпечує SELECT-правила повноважного керування доступом для користувача.</br>
- ![image](https://user-images.githubusercontent.com/73271963/206334008-80230040-56fd-434b-9caf-54b4c721b4fb.png)
+![image](https://user-images.githubusercontent.com/73271963/206454348-b694c6cb-7878-4e5c-af0e-3ebb2312e977.png)
 
 6. Створіть INSERT/UPDATE/DELETE-правила повноважного керування доступом для користувача.</br>
- ![image](https://user-images.githubusercontent.com/73271963/206334013-0d303c93-1bae-42fb-9edf-0e543e978db4.png)
+![image](https://user-images.githubusercontent.com/73271963/206454373-db362822-8161-4055-a8c4-c066d377d4d7.png)
+![image](https://user-images.githubusercontent.com/73271963/206454386-4448d5b9-3b2b-4fe0-9cd8-4e290664a241.png)
+![image](https://user-images.githubusercontent.com/73271963/206454396-00721b09-e474-4ae6-87b1-0f0ad7b7fe4a.png)
+![image](https://user-images.githubusercontent.com/73271963/206454406-5e3958fd-0ae0-45f1-a8eb-b650e893c21f.png)</br>
+![image](https://user-images.githubusercontent.com/73271963/206454422-319948f4-8334-48b0-859b-22ebed0ed6e4.png)
+![image](https://user-images.githubusercontent.com/73271963/206454432-5d606ec7-1eaa-464b-ab97-d7216796c438.png)
+![image](https://user-images.githubusercontent.com/73271963/206454441-9dac0fd6-9a9c-4952-808a-4dd5dd6c18e8.png)
 
 7. Перевірте роботу механізму повноважного керування, виконавши операції
 SELECT, INSERT, UPDATE, DELETE</br>
-![image](https://user-images.githubusercontent.com/73271963/206334018-5bb55be8-2893-481d-b440-cb5f84698423.png)
-![image](https://user-images.githubusercontent.com/73271963/206334027-a8ed1037-3784-4df3-99f7-6d627d84cbee.png)
-![image](https://user-images.githubusercontent.com/73271963/206334033-7584191d-b79f-4d90-90c4-449039928a80.png)
-![image](https://user-images.githubusercontent.com/73271963/206334041-69ef4010-e063-4b82-b2e9-739fa0cf471e.png)
-![image](https://user-images.githubusercontent.com/73271963/206334049-5f197bc5-1a78-4d95-94a8-c31f056cbdb5.png)
-![image](https://user-images.githubusercontent.com/73271963/206334056-9280f822-a70a-4f74-90ff-0c853b588a81.png)
-![image](https://user-images.githubusercontent.com/73271963/206334067-39221422-d423-49ce-9ebf-f779d4ceb518.png)
-
+![image](https://user-images.githubusercontent.com/73271963/206454478-55a2ef5c-87af-4eef-ae6c-2b37a9e174da.png)
